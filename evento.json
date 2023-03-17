@@ -1,0 +1,36 @@
+{
+    "evento" : "Fiestas Insulares",
+    "isla" : "Las Palmas",
+    "year" : 2023,    
+    "active" : true,
+    "members" : [
+
+      {
+        "nombre" : "Cabalgata infantil",
+        "fecha" : "26/02/23",
+        "dia" : "Domingo",
+        "lugar" : "Las Palmas de Gran Canaria",
+        "numero_participaciones" : ">1500",
+        "estado" : "confirmado",   
+        "img" :  "./img/reinainfantil.jpg"
+      },
+      {
+        "nombre" : "Gran Cabalgata",
+        "fecha" : "4/03/23",
+        "dia" : "Sabado",
+        "lugar" : "Las Palmas de Gran Canaria",
+        "numero_participaciones" : ">2500",
+        "estado" : "confirmado",
+        "img" :  "./img/dragQueen.jpg"
+      },
+      {
+        "nombre" : "Entierro de la sardina",
+        "fecha" : "05/03/23",
+        "dia" : "Domingo",
+        "lugar" : "Las Palmas de Gran Canaria",
+        "numero_participaciones" : ">1500",
+        "estado" : "confirmado",
+        "img" :  "./img/sardina.jpg"
+      }
+    ]
+}
